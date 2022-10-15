@@ -11,3 +11,4 @@ git pull origin "branch name"
 git add "directory"
 git commit -m "commit message"
 git push -u origin "brach name"
+git checkout -b 브랜치명 : 브랜치 생성민 전환
